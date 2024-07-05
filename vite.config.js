@@ -13,5 +13,5 @@ export default defineConfig({
     sourcemap: true
   },
 
-  base:'/https://Baltasar12.github.io/Apple_Website'
+  base:'/Apple_Website/'
 })
